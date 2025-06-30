@@ -8,7 +8,7 @@
 
 ![Top 5 Contributor – Botswana](https://img.shields.io/badge/GitHub%20Top%205-Botswana-blueviolet?style=flat-square&logo=github)
 ![Top 25 Developer – Botswana](https://img.shields.io/badge/Top%2025%20Developer-Botswana-success?style=flat-square&logo=github)
-![Ranked #13 by Followers – Botswana](https://img.shields.io/badge/GitHub%20Followers-#13%20Botswana-orange?style=flat-square&logo=github)
+![Top 13 by Followers – Botswana](https://img.shields.io/badge/GitHub%20Followers-#13%20Botswana-orange?style=flat-square&logo=github)
 
 ---
 
