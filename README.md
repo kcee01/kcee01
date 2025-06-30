@@ -1,14 +1,18 @@
 # 👋 Hi, I’m Cliff Keabetswe (@kcee01)
 
-![GitHub Rank](https://img.shields.io/badge/GitHub%20Rank-Top%2010%20in%20Botswana-0099ff?style=flat-square&logo=github)
+
 
 🇧🇼 Proudly ranked among the **Top 10 most active GitHub contributors in Botswana**  
 🔧 Passionate about open-source, full-stack development, and real-world problem-solving  
 📊 600+ contributions in the last year and growing!
 
-![Top 5 Contributor – Botswana](https://img.shields.io/badge/GitHub%20Top%205-Botswana-blueviolet?style=flat-square&logo=github)
-![Top 25 Developer – Botswana](https://img.shields.io/badge/Top%2025%20Developer-Botswana-success?style=flat-square&logo=github)
-![Top 13 by Followers – Botswana](https://img.shields.io/badge/GitHub%20Followers-#13%20Botswana-orange?style=flat-square&logo=github)
+![GitHub Rank](https://img.shields.io/badge/GitHub%20Rank-Top%205%20Contributors%20in%20Botswana-8A2BE2?style=flat-square&logo=github)
+![Developer Status](https://img.shields.io/badge/Developer%20Recognition-Top%2025%20in%20Botswana-228B22?style=flat-square&logo=github)
+![GitHub Followers](https://img.shields.io/badge/Most%20Followed%20Developers-Ranked%20%2313%20in%20Botswana-FFA500?style=flat-square&logo=github)
+![Contributions](https://img.shields.io/badge/Annual%20Contributions-643%2B%20in%202024-1E90FF?style=flat-square&logo=git)
+![Open Source](https://img.shields.io/badge/Open%20Source-Active%20Maintainer-00C853?style=flat-square&logo=github)
+![Automation Projects](https://img.shields.io/badge/Projects%20Focus-Cloud%20%26%20Automation-informational?style=flat-square&logo=amazon-aws)
+
 
 ---
 
